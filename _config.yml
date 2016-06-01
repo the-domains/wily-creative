@@ -1,4 +1,7 @@
-layout_spectrum: 0.8213162433821708
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -17,24 +20,21 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.2222222
+  saturation: 0.3225806
   brandStrength: 0.8353068241849542
-  lightness: 0.3602151
+  lightness: 0.3010753
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.4318996
-typography_spectrum: 0.1229421400930732
+  rhythmicContrast: 0.5913978
+typography_spectrum: 0.6451613
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.8213162433821708
 favicon: null
 name: Wily Creative
