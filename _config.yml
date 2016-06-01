@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Wily Creative
 opengraph:
   image: null
   type: null
@@ -30,11 +28,13 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   rhythmicContrast: 0.5913978
-typography_spectrum: 0.6451613
+typography_spectrum: 0.6200717
+layout_spectrum: 0.8213162433821708
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.8213162433821708
-favicon: null
-name: Wily Creative
+analytics:
+  twitter: null
+  google: null
+  facebook: null
